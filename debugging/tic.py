@@ -57,5 +57,6 @@ def tic_tac_toe():
     print_board(board)
     print(f"Player {player} wins!")
 
+
 # Run the game
 tic_tac_toe()
